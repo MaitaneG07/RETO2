@@ -1,6 +1,0 @@
-ID Viaje: 41
-Agencia: agencia1
-Nombre Viaje: paris
-Eventos: paris
-Precio Total: 120.0
-
